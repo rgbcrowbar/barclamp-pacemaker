@@ -47,7 +47,7 @@ debs:
     - cluster-agents
     - libcorosync4
     - corosync
-    - libesmtp5
+    - libesmtp6
     - libheartbeat2
     - libxslt1.1
     - openhpid
